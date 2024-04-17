@@ -1,4 +1,6 @@
 # The second-order correlation function
+[https://github.com/Schiiite/Individual-Project/tree/main](https://github.com/Schiiite/Individual-Project/tree/main)  
+  
 UOM 3rd year individual project  
 Student ID: 10972821  
 Name: Zihan Xu  
