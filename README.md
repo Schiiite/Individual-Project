@@ -23,4 +23,4 @@ In order to run all the files, you may need to install the following packages, i
 After you've done all the steps above, copy all the files in this repository to your working environment, and try to build and run them. You should be able to see the output plots in your chrome's new window.
 
 # More details
-The file 'make_plot.py' is a py document that only contains the functions only for the plot generation, must be included as header files in all other documents.
+The file 'make_plot.py' is a py document that only contains the functions only for the plot generation, must be included as header files in all other documents. If an error occurs when the code is generating the plot, remember to check the header files.  
