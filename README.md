@@ -11,7 +11,7 @@ For the IDE, I use PyCharm Community Edition myself, and here's the download lin
 
 # How to use
 The modelling contains the use of several differnet packages that need to be installed manually. Click 'File' in the main menu tool bar on top left, and click 'Settings' in the dropdown menu.  
-![image](https://github.com/Schiiite/Individual-Project/blob/main/img_folder/1.png)  
-A new window will pop out
+![image1](https://github.com/Schiiite/Individual-Project/blob/main/img_folder/1.png)  
+A new window will pop out and search for 'interpreter' in the search bar. ![image2]()
 Just copy all the files to your ide's (i.e. PyCharm) working environment, and try to run them.
 
