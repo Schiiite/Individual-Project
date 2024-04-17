@@ -14,7 +14,11 @@ The modelling contains the use of several differnet packages that need to be ins
 ![image1](https://github.com/Schiiite/Individual-Project/blob/main/img_folder/1.png)  
   
 A new window will pop out and search for 'interpreter' in the search bar. Then click the '+' button to search for the necessary packages. ![image2](https://github.com/Schiiite/Individual-Project/blob/main/img_folder/3.png)  
-  
-In order to run all the files, you may need to install the following packages, including: 'numpy', 'pandas', 'plotly', and 'dash'.  
-After you've done all the steps above, copy all the files to the working environment, and try to build and run them.
 
+In order to run all the files, you may need to install the following packages, including: 'numpy', 'pandas', 'plotly', and 'dash'.  
+![image3](https://github.com/Schiiite/Individual-Project/blob/main/img_folder/4.png)  
+
+After you've done all the steps above, copy all the files in this repository to your working environment, and try to build and run them. You should be able to see the output plots in your chrome's new window.
+
+# More details
+The file 'make_plot.py' is a py document that only contains the functions only for the plot generation, must be included as header files in all other documents.
