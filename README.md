@@ -1,7 +1,7 @@
 # The second-order correlation function
-UOM 3rd year individual project
-Student ID: 10972821
-Name: Zihan Xu
+UOM 3rd year individual project  
+Student ID: 10972821  
+Name: Zihan Xu  
 
 # Intro
 The py documents in this repository are the modelling of the second order correlation function. 
