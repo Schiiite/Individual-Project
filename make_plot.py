@@ -47,6 +47,9 @@ def add_scatters(fig, x_axis, y_axis, l_name):
             name=l_name,
             mode="markers + lines",
         )
+        fig.update_layout(
+            font=dict(size=25),
+        )
     )
 
 
